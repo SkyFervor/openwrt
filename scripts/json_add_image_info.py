@@ -37,10 +37,12 @@ image_info = {
             "images": [
                 {
                     "type": getenv("IMAGE_TYPE"),
+                    "filesystem": getenv("IMAGE_FILESYSTEM"),
                     "name": getenv("IMAGE_NAME"),
                     "sha256": image_hash,
                 }
             ],
+            "device_packages": getenv("DEVICE_PACKAGES").split(),
             "supported_devices": getenv("SUPPORTED_DEVICES").split(),
             "titles": get_titles(),
         }
