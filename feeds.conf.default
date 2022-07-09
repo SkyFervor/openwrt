@@ -5,3 +5,5 @@ src-git-full telephony https://git.openwrt.org/feed/telephony.git;openwrt-22.03
 src-git-full skyfervor https://github.com/SkyFervor/openwrt-package.git;master
 src-git-full openclash https://github.com/vernesong/OpenClash.git;master
 src-git-full diskman https://github.com/lisaac/luci-app-diskman.git;master
+src-git-full linkease https://github.com/linkease/nas-packages.git;master
+src-git-full linkease_luci https://github.com/linkease/nas-packages-luci.git;main
