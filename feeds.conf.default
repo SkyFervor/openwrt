@@ -2,3 +2,12 @@ src-git packages https://git.openwrt.org/feed/packages.git^c7d1a8c1ae976bd0ad94a
 src-git luci https://git.openwrt.org/project/luci.git^d6b13f648339273facc07b173546ace459c1cabe
 src-git routing https://git.openwrt.org/feed/routing.git^85d040f28c21c116c905aa15a66255dde80336e7
 src-git telephony https://git.openwrt.org/feed/telephony.git^2a4541d46199ac96fac214d02c908402831c4dc6
+
+src-git skyfervor git@github.com:SkyFervor/openwrt-package.git;master
+src-git openclash https://github.com/vernesong/OpenClash.git;master
+src-git diskman https://github.com/lisaac/luci-app-diskman.git;master
+src-git linkease_nas https://github.com/linkease/nas-packages.git;master
+src-git linkease_nas_luci https://github.com/linkease/nas-packages-luci.git;main
+src-git linkease_istore https://github.com/linkease/istore.git;main
+src-git openlist https://github.com/sbwml/luci-app-openlist2.git;main
+
