@@ -9,4 +9,5 @@ src-git diskman https://github.com/lisaac/luci-app-diskman.git;master
 src-git linkease_nas https://github.com/linkease/nas-packages.git;master
 src-git linkease_nas_luci https://github.com/linkease/nas-packages-luci.git;main
 src-git linkease_istore https://github.com/linkease/istore.git;main
+src-git openlist https://github.com/sbwml/luci-app-openlist2.git;main
 
