@@ -13,4 +13,5 @@ src-git openlist https://github.com/sbwml/luci-app-openlist2.git;main
 src-git speedtest https://github.com/sirpdboy/luci-app-netspeedtest.git;js
 
 src-git lucky https://github.com/gdy666/lucky;master
+src-git lucky_luci https://github.com/gdy666/luci-app-lucky.git;main
 
